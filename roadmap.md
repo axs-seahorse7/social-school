@@ -36,7 +36,6 @@ Data for Creating a Teacher ✅
     - Class ID 
         - [ 1, 2, 4, 8] classes to attend
             - subject [ physics, math ...]_iD
-
 Data for Creating a Classes ✅
     - class Name [ X, XII, ...more] ☑️
     - Subjects [ Math, Physics, English, ...More ] _ID (multiple) ☑️
